@@ -1,0 +1,1 @@
+edit all lines at once: find/Replace ^(.*)$ with "$1", to wrap each line in quotes and add a comma at EOL.
